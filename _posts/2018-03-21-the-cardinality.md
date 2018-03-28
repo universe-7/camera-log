@@ -1,13 +1,14 @@
 ---
 layout: post
 title: the cardinality
-tags: avian-AF raw-notes
+tags: avian-AF raw-notes blizzard
 ---
 
-
-_03-21-2018_ Forest Park Queens NYC
+## Forest Park Queens NYC
 
 ## conditions
+
+_Wednesday, March 21st, 2018_
 
 - 32.0 F temp 
 - 19.2 F windchill 

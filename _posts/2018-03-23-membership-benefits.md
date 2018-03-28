@@ -1,14 +1,14 @@
 ---
 layout: post
 title: the cocktails aren't free
-tags: avian-AF
+tags: avian-AF raw-notes sun clouds
 ---
 
-# the cocktails aren't free 
-
-_03-23-2018_ Brooklyn Botanical Garden
+## Brooklyn Botanical Garden
 
 ## conditions
+
+_Friday, March 23rd, 2018_
 
 - 48.0 F temp
 - 0.0 windchill
