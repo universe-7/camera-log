@@ -6,11 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            pdpd
-tagline:          "mugen no ai"
-description:      'mental overflow • pictures • research • trials, • errors'
-url:              https://universe-7.github.io
-baseurl:          /universe-7.github.io/
+title:            avian-AF • camera log
+tagline:          "camera log"
+description:      'camera log & raw notes'
+url:              https://universe-7.github.io/camera-log
+baseurl:          /universe-7.github.io/camera-log
 
 author:
   name:           'Pete Deevakul'
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:           
-  repo:           https://github.com/universe-7/universe-7.github.io
+  repo:           https://github.com/universe-7/camera-log
