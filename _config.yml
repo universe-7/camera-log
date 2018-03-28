@@ -9,8 +9,8 @@ permalink:        pretty
 title:            avian-AF • camera log
 tagline:          "camera log"
 description:      'camera log • raw notes'
-url:              https://universe-7.github.io/camera-log
-baseurl:          /universe-7.github.io/camera-log
+url:              https://universe-7.github.io/camera-log/
+baseurl:          /universe-7.github.io/camera-log/
 
 author:
   name:           'Pete Deevakul'
