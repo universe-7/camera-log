@@ -1,6 +1,6 @@
 ---
 layout: post
-title: raw notes: the cardinality
+title: the cardinality
 tags: avian-AF raw-notes
 ---
 
