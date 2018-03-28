@@ -10,7 +10,7 @@ layout: default
   <span class="post-tags" style="white-space: nowrap">#'s
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">
+    <a href="/camera-log/tag/{{ tag_name }}">
       {{ tag_name }}
     </a>
   {% endfor %}
@@ -21,7 +21,7 @@ layout: default
   <span class="post-tags" style="white-space: nowrap">tags:
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">
+    <a href="/camera-log/tag/{{ tag_name }}">
       {{ tag_name }}
     </a>
   {% endfor %}
@@ -35,7 +35,7 @@ layout: default
     {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
-          <a href="{{ post.url }}">
+          <a href="/camera-log/{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
