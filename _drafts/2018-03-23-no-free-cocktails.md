@@ -20,7 +20,8 @@ _03-23-2018_ Brooklyn Botanical Garden
 ## statistics
 
 - 1684 pictures
-- 74.76 GB across 6 folders
+- 74.76 GB
+- 6 folders
 - ISO 800-3200
 - 12:08 PM - first shot
 - 04:26 PM - last shot

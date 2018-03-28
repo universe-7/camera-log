@@ -20,7 +20,8 @@ _03-21-2018_ Forest Park Queens NYC
 ## statistics
 
 - 3224 pictures
-- 141.38 GB across 6 folders
+- 141.38 GB
+- 6 folders
 - ISO 3200-5000
 - 11:53 AM - first shot
 - 05:11 PM - last shot
