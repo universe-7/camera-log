@@ -1,6 +1,6 @@
 ---
 layout: page
-title: archive
+title: notes by date
 ---
 
 {% for post in site.posts %}
