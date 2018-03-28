@@ -10,7 +10,7 @@ title:            avian-AF • camera log
 tagline:          "camera log"
 description:      'camera log • raw notes'
 url:              https://universe-7.github.io/camera-log/
-baseurl:          https://github.com/universe-7/camera-log/
+baseurl:          /universe-7/camera-log/
 
 author:
   name:           'Pete Deevakul'
