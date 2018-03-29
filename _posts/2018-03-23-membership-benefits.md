@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the cocktails aren't free
-tags: avian-AF raw-notes sun clouds
+tags: avian-AF raw-notes sunny partly-cloudy
 ---
 
 ## Brooklyn Botanical Garden
