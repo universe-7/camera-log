@@ -15,7 +15,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     <span class="post-tags" style="">tags:
-    {% for tag in page.tags %}{% capture tag_name %}{{ tag }}{% endcapture %}
+    {% for post in site.tags[page.tag] %}{% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/camera-log/tag/{{ tag_name }}">{{ tag_name }}</a>
     {% endfor %}
     </span>
