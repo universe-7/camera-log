@@ -1,4 +1,8 @@
-# the cardinality
+---
+layout: post
+title: the cardinality
+tags: blizzard avian-AF raw-notes
+---
 
 _03-21-2018_ Forest Park Queens NYC
 
