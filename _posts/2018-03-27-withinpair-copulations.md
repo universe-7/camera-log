@@ -9,7 +9,7 @@ tags: avian-AF american-kestrel mostly-cloudy
 Salt Marsh Nature Trail
 
 - [conditions](#conditions)
-- [statistics](#stats)
+- [stats](#stats)
 - [notes while editing](#notes-while-editing)
 - [notes in detail](#notes-in-detail)
 
