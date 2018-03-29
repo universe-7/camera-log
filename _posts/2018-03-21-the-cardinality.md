@@ -4,9 +4,9 @@ title: the cardinality
 tags: blizzard avian-AF raw-notes
 ---
 
-_03-21-2018_ Forest Park Queens NYC
-
 ![enter Forest Park](http://hello.pdpd.org/universe-7/-u7-images/2018-03-21-forest-park-entry.jpg)
+
+_Wednesday March 21st, 2018_, Forest Park, Queens, NYC
 
 ## conditions
 
