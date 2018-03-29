@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "tag: wyo-59"
+title: "tag: blizzard"
 tag: blizzard
 ---
