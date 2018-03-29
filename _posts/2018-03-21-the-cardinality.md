@@ -1,14 +1,10 @@
----
-layout: post
-title: the cardinality
-tags: avian-AF raw-notes blizzard
----
+# the cardinality
 
-## Forest Park Queens NYC
+_03-21-2018_ Forest Park Queens NYC
+
+![enter Forest Park](http://hello.pdpd.org/universe-7/-u7-images/2018-03-21-forest-park-entry.jpg)
 
 ## conditions
-
-_Wednesday, March 21st, 2018_
 
 - 32.0 F temp 
 - 19.2 F windchill 
@@ -21,8 +17,7 @@ _Wednesday, March 21st, 2018_
 ## statistics
 
 - 3224 pictures
-- 141.38 GB
-- 6 folders
+- 141.38 GB across 6 folders
 - ISO 3200-5000
 - 11:53 AM - first shot
 - 05:11 PM - last shot
