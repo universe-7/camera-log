@@ -63,15 +63,15 @@ _what am I thinking, what was I seeing?_
 - branches that obscure perfectly
 - variable clarity with atmospheric conditions
 
+## 📁
 
-### 01
 - _tik_ _tik_ _chip_ _tschip_ cardinal calling card
 - _"catbird vs. titmouse"_
 - branch nibbling like an plumbing ostrich
 - what are those branch nubs you nibble?
 - landing on the most delicate branches a la li mu bai
 
-### 02
+## 📁📁
 
 - \*new\* downy slinking
 - disconnected red-bellied branches
@@ -79,14 +79,14 @@ _what am I thinking, what was I seeing?_
 - chaos of branches
 - mild snowblindness, judging from exposures on landscapes
 
-### 03
+## 📁📁📁
 
 - dece blue jays
 - red-belly flight
 - dark-eyed junco (!) at height of arm fatigue, hop, perch, take-wing, faster than fatigue
 - dash of cardinals
 
-### 04 
+## 📁📁📁📁
 
 - hiding titmouse, behind a branch at limits of vision
 - titmouse taking wing
@@ -105,12 +105,12 @@ _what am I thinking, what was I seeing?_
 - goldfinch on the s-branch
 - possible common redpoll 
 
-### 05
+## 📁📁📁📁📁
 
 - could be a first-sighting bias, but tufted titmice look great out of focus. call it painterly
 - nothing is faster than a black-capped chickadee
 
-### 06 
+## 📁📁📁📁📁📁
 
 - lady cardinal libery spikes
 - closest downy
