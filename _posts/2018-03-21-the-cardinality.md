@@ -63,7 +63,7 @@ _what am I thinking, what was I seeing?_
 - branches that obscure perfectly
 - variable clarity with atmospheric conditions
 
-## 📁
+### 📁
 
 - _tik_ _tik_ _chip_ _tschip_ cardinal calling card
 - _"catbird vs. titmouse"_
@@ -71,7 +71,7 @@ _what am I thinking, what was I seeing?_
 - what are those branch nubs you nibble?
 - landing on the most delicate branches a la li mu bai
 
-## 📁📁
+### 📁📁
 
 - \*new\* downy slinking
 - disconnected red-bellied branches
@@ -79,14 +79,14 @@ _what am I thinking, what was I seeing?_
 - chaos of branches
 - mild snowblindness, judging from exposures on landscapes
 
-## 📁📁📁
+### 📁📁📁
 
 - dece blue jays
 - red-belly flight
 - dark-eyed junco (!) at height of arm fatigue, hop, perch, take-wing, faster than fatigue
 - dash of cardinals
 
-## 📁📁📁📁
+### 📁📁📁📁
 
 - hiding titmouse, behind a branch at limits of vision
 - titmouse taking wing
@@ -105,12 +105,12 @@ _what am I thinking, what was I seeing?_
 - goldfinch on the s-branch
 - possible common redpoll 
 
-## 📁📁📁📁📁
+### 📁📁📁📁📁
 
 - could be a first-sighting bias, but tufted titmice look great out of focus. call it painterly
 - nothing is faster than a black-capped chickadee
 
-## 📁📁📁📁📁📁
+### 📁📁📁📁📁📁
 
 - lady cardinal libery spikes
 - closest downy
@@ -124,9 +124,6 @@ _Tufted Titmice and chickadees are ‘nuclear' species, often joined in winter f
 
 _gleaning (63%), hanging and gleaning (21%), hovering and gleaning (3%), probing (8%), pecking (2%), scratching and gleaning (1%), and turning leaves (1%)_
 
-## seth's blog
-
-a follow up on [free lunches](http://sethgodin.typepad.com/seths_blog/2018/03/yes-theres-a-free-lunch.html)
 
 
 
