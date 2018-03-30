@@ -3,6 +3,10 @@ _gh_pages
 _site
 .ruby-version
 
+_drafts/sftp-config.json
+_posts/sftp-config.json
+sftp-config.json
+
 # Numerous always-ignore extensions
 *.diff
 *.err
