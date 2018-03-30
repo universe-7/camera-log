@@ -8,10 +8,6 @@ tags: avian-AF american-kestrel sunny clear FBF SMNT
 
 _Monday, March 26th, 2018_ • Floyd Bennett Field & SMNT, Brooklyn, NY 
 
-Kestrel hopping from Floyd Bennett Field to Salt Marsh Nature Trail. 
-
-Saw that Kenny at Salt Marsh has a girlfriend now (saw them perform coitus _four_ times). It wasn't an incredibly hot day but the sun was shining down hard, creating heat shimmer low to the ground.
-
 ## conditions
 
 - 37.0-46.0 degrees F
@@ -27,8 +23,25 @@ Saw that Kenny at Salt Marsh has a girlfriend now (saw them perform coitus _four
 
 # notes in general
 
-- texted Phong about Kenny's girlfriend. _Are you there?_ followed quickly by _I'm driving over_. Unfortunately I missed him - a half hour passed and the lady flew off. I think...
+_Just saw Kenny has a girlfriend_
 
+_Are you there?_ 
+
+Before I could respond,
+
+_I'm driving over_. 
+
+_Light is a little harsh but i never saw him with his girlfriend_
+
+Unfortunately I missed him - a half hour passed and the lady flew off. I think...
+
+_I think Kenny's girlfriend took off. Southwest, over the water..._
+
+_Oh no_
+
+Kestrel hopping from Floyd Bennett Field to Salt Marsh Nature Trail. 
+
+Saw that Kenny at Salt Marsh has a girlfriend now (saw them perform coitus _four_ times). It wasn't an incredibly hot day but the sun was shining down hard, creating heat shimmer low to the ground.
 
 # notes in detail
 
