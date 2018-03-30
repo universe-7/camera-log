@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the cardinality
-tags: blizzard avian-AF raw-notes
+tags: blizzard avian-AF raw-notes forest-park
 ---
 
 ![enter Forest Park](http://hello.pdpd.org/universe-7/-u7-images/2018-03-21-forest-park-entry.jpg)

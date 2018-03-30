@@ -1,7 +1,7 @@
 ---
 layout: post
 title: withinpair copulations
-tags: avian-AF american-kestrel mostly-cloudy
+tags: avian-AF american-kestrel mostly-cloudy SMNT
 ---
 
 ...is what scientists call monogamous relationships between study birds. Villarroel talks in detail about _prefertile copulations_ and their role in _mate assessment_<sup>[1](#references)</sup>.
