@@ -47,7 +47,7 @@ _Wednesday March 21st, 2018_ • Forest Park, Queens, NYC
 - red-bellied woodpeckers were loud, matched sight to sound finally
 - _northern flicker_ (!)
 - diving chickadees
-- dry-bag blizzard rig worked
+- dry-bag blizzard rig worked<sup>[1](#blizz-rig)</sup>
 - gonna guess they were song sparrows cuz there wasn't a swamp or a salt marsh
 - a husky stopped me on the trail then her owner called her back. nice group of 4 folks walking their dogs. i said 'nice day, isn\'t it?' 'sure is - enjoy!'
 - another husky ran up to me and i pet it. her owner said 'birdwatching?'. i said 'yea the snow makes everything so beautiful' her friend smiled and she and her lassie-dog walked past. saw 6 small songbirds fly overhead during this exchange.
@@ -57,6 +57,8 @@ _Wednesday March 21st, 2018_ • Forest Park, Queens, NYC
 - focus variable depending on arm fatigue and amount of snow on lens
 - let the rear defroster warm up before driving off
 - grocery list: coconut oil or butter (bird suet), ground cumin (bean & cheese burrito)
+
+## blizz rig
 
 ![blizz-rig](https://hello.pdpd.org/universe-7/-u7-images/2018-03/blizz-rig-H.jpg)
 
