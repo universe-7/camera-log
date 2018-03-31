@@ -35,6 +35,8 @@ _Wednesday March 21st, 2018_ • Forest Park, Queens, NYC
 - best titmouse (in focus)
 - best titmouse (out of focus)
 
+![a cardinality](https://hello.pdpd.org/universe-7/-u7-images/2018-03/2018-0321-fp-0211-V1.jpg)
+
 ## notes from memory
 
 - more cardinals than I could count
@@ -55,6 +57,8 @@ _Wednesday March 21st, 2018_ • Forest Park, Queens, NYC
 - focus variable depending on arm fatigue and amount of snow on lens
 - let the rear defroster warm up before driving off
 - grocery list: coconut oil or butter (bird suet), ground cumin (bean & cheese burrito)
+
+![blizz-rig](https://hello.pdpd.org/universe-7/-u7-images/2018-03/blizz-rig-H.jpg)
 
 ## notes while editing
 
